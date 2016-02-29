@@ -22,22 +22,22 @@ namespace Ejemplo_1_WebApp {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Control textbox1.
+        /// Control txtusuario.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox textbox1;
+        protected global::System.Web.UI.WebControls.TextBox txtusuario;
         
         /// <summary>
-        /// Control textbox2.
+        /// Control txtpassword.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox textbox2;
+        protected global::System.Web.UI.WebControls.TextBox txtpassword;
         
         /// <summary>
         /// Control textboxt3.

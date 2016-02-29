@@ -4,3 +4,9 @@ E:\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\bin\Ejemplo_1_WebApp
 E:\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\obj\Debug\Ejemplo_1_WebApp.csprojResolveAssemblyReference.cache
 E:\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\obj\Debug\Ejemplo_1_WebApp.dll
 E:\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\obj\Debug\Ejemplo_1_WebApp.pdb
+C:\Disco Local E\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\bin\Ejemplo_1_WebApp.dll.config
+C:\Disco Local E\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\bin\Ejemplo_1_WebApp.dll
+C:\Disco Local E\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\bin\Ejemplo_1_WebApp.pdb
+C:\Disco Local E\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\obj\Debug\Ejemplo_1_WebApp.csprojResolveAssemblyReference.cache
+C:\Disco Local E\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\obj\Debug\Ejemplo_1_WebApp.dll
+C:\Disco Local E\Proyectos ASP Ejemplos\Ejemplo_1_WebApp\Ejemplo_1_WebApp\obj\Debug\Ejemplo_1_WebApp.pdb
